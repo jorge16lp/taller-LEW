@@ -1,0 +1,73 @@
+{
+    "meta": {
+        "app_id": "es.segovia.pois",
+        "app_title": "Sgovia",
+        "version": 1,
+        "updated": "2023-10-04",
+        "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
+        "matomo_base_url": "https://matomo.pbest.me/matomo.php?idsite=1&rec=1",        
+        "marketplace_url": ""
+    },
+    "content": {
+        "en": {
+            "app": {
+                "theme": {
+                    "brand": "#B11623",
+                    "complementary": "#FAFAFA"
+                },
+                "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
+                "text_info": "This app is created by locals and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
+                "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
+                "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
+            },
+            "pois": [{
+                    "id": "nouisbr978e", 
+                    "lat": "40.948201437810205",
+                    "lon": "-4.117852687653046",
+                    "type": "monument",
+                    "name": "Aqueduct of Segovia",
+                    "images": [
+                        "https://res.cloudinary.com/dvndxdgaz/image/upload/v1696438834/taller/acueducto_qrzvv8.jpg"
+                    ],
+                    "description": "The Aqueduct of Segovia (Spanish: Acueducto de Segovia) is a Roman aqueduct in Segovia, Spain. It was built around the first century AD to channel water from springs in the mountains 17 kilometres (11 mi) away to the city's fountains, public baths and private houses, and was in use until 1973. Its elevated section, with its complete arcade of 167 arches, is one of the best-preserved Roman aqueduct bridges and the foremost symbol of Segovia, as evidenced by its presence on the city's coat of arms. The Old Town of Segovia and the aqueduct, were declared a UNESCO World Heritage Site in 1985.",
+                    "more": "As the aqueduct lacks a legible inscription (one was apparently located in the structure's attic, or top portion[citation needed]), the date of construction cannot be definitively determined. The general date of the Aqueduct's construction was long a mystery, although it was thought to have been during the 1st century AD, during the reigns of the Emperors Domitian, Nerva, and Trajan. At the end of the 20th century, Géza Alföldy deciphered the text on the dedication plaque by studying the anchors that held the now missing bronze letters in place. He determined that Emperor Domitian (AD 81–96) ordered its construction[1] and the year 98 AD was proposed as the most likely date of completion.[2] However, in 2016 archeological evidence was published which points to a slightly later date, after 112 AD, during the government of Trajan or in the beginning of the government of emperor Hadrian, from 117 AD. The beginnings of Segovia are also not definitively known. The Arevaci people are known to have populated the area before it was conquered by the Romans. Roman troops sent to control the area stayed behind to settle there. The area fell within the jurisdiction of the Roman provincial court (Latin conventus iuridici, Spanish convento jurídico) located in Clunia.",
+                    "urls": [
+                        "https://es.wikipedia.org/wiki/Acueducto_de_Segovia"
+                    ]
+                },
+                {
+                    "id": "kjdofe7r38rg",  
+                    "lat": "40.95273453074266",
+                    "lon": "-4.132451973114333",
+                    "type": "monument",
+                    "name": "Alcazar of Segovia",
+                    "images": [
+                        "https://res.cloudinary.com/dvndxdgaz/image/upload/v1696438837/taller/alcazar_j9odme.jpg"
+                    ],
+                    "description": "The Alcazar of Segovia is a medieval castle located in the city of Segovia, in Castile and León, Spain. It exists since at least the 12th century, and is one of the most renowned medieval castles globally and one of the most visited landmarks in Spain. It has been the backdrop for significant historical events and has been home to twenty-two kings, along with notable historical figures.",
+                    "more": "The Alcázar of Segovia, like many fortifications in Spain, started off as a Roman castrum,[1] but apart from the foundations, little of the original structure remains.[2] The alcázar was built by the Berber Almoravid dynasty. Almoravid art and architecture is scarcely talked about in scholarship in part because so little of the physical work has survived in Spain.[3] Furthermore, the Almoravid dynasty was short-lived and therefore much of the art and architecture of that period was subsequently destroyed or converted by their successors. The first reference to this castle was in 1120, around 32 years after the city of Segovia was conquered by the Christians (during the Reconquista when King Alfonso VI reconquered lands to the south of the Duero river, down to Toledo and beyond).[4] In 1258, during the reign of King Alfonso X of Castile (r. 1252–1284), an intense thunderstorm caused a fire that destroyed several rooms, leading to centuries-long reconstruction during the reigns of various kings.",
+                    "urls": [
+                        "https://en.wikipedia.org/wiki/Alc%C3%A1zar_of_Segovia"
+                    ]
+                },
+                {
+                    "id": "jnef76367g3f",
+                    "lat": "40.95027404006388", 
+                    "lon": "-4.125245573114441",
+                    "type": "monument",
+                    "name": "Segovia Cathedral",
+                    "images": [
+                        "https://res.cloudinary.com/dvndxdgaz/image/upload/v1696438834/taller/catedral_qdcc8o.jpg"
+                    ],
+                    "description": "Segovia Cathedral is the Gothic-style Roman Catholic cathedral located in the main square (Plaza Mayor) of the city of Segovia, in the community of Castile-Leon, Spain. The church, dedicated to the Virgin Mary, was built in the Flamboyant Gothic style in the mid-16th century.",
+                    "more": "The massive cathedral was built between 1525 and 1577 in a late Gothic style, outdated elsewhere in Europe. The previous cathedral of Segovia had stood adjacent to the Alcazar, and had been used by the royal armies in defending the latter against siege. The rebellious Comuneros were intent on taking the cathedral to protect its holy relics, and to use its position against the walls of the Alcazar in order to defeat its defenders. In a famous exchange, prominent city officials urged the comuneros to halt their attacks on the church, saying they should consider the injustice of razing so sumptuous a temple while making war against those who, serving their king, defended his Alcazar. But their plea fell on deaf ears, and the comuneros replied: la Iglesia era de la Ciudad (the Church belonged to the City).[2] After a bitter siege lasting months, the cathedral lay in ruins. Overall view of the Cathedral of Segovia, Castilla y Léon, Spain and the surrounding Jewish Quarter of the city (la Judería). Due to fears of a repeat assault, the cathedral was relocated to the present site and built using a design by the Trasmeran mason named Juan Gil de Hontañón, and the work was continued by his son Rodrigo Gil de Hontañón. ",
+                    "urls": [
+                        "https://es.wikipedia.org/wiki/Catedral_de_Segovia"
+                    ]
+                }
+            ]
+        }
+    }
+}
